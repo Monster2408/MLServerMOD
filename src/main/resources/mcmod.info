@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "MLServerMOD",
+    "name": "MLServer MOD",
+    "description": "Biwako is the largest lake in Japan.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/Monster2408",
+    "updateUrl": "",
+    "authorList": ["Monster2408"],
+    "credits": "",
+    "logoFile": "assets/mlserver_mod/logo.png",
+    "screenshots": [],
+    "dependencies": ["mod_MinecraftForge"]
+  }
+]
